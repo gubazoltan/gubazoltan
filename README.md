@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gubazoltan
 - 👀 I’m interested in Topological Phases of Matter, Condensed Matter Theory, Quantum Computing, and Quantum Communication
-- 🌱 I’m currently learning physics at Budapest University of Technology and Economics 
+- 🌱 I’m a PhD student at University of Zurich, Switzerland
 - 📫 Contact me on my email address: gubazoltan99@gmail.com
 
 <!---
